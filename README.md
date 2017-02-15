@@ -1,5 +1,4 @@
-# Statistical Methods in Natural Language Processing
-##(LT2202 V17)
+# (LT2202 V17) Statistical Methods in Natural Language Processing
 
 This repository contain assignment matterials and lab instructions.
 
