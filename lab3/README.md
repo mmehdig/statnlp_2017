@@ -2,7 +2,7 @@ The old assignment (2016) from Richar Johansson.
 
 The available corpora of tagged senteces includes these files. Ask the instructor.
 
-`
+```
 catalan.tagged
 chinese.tagged
 czech.tagged
@@ -21,4 +21,4 @@ portuguese.tagged
 russian.tagged	
 spanish.tagged
 swedish.tagged
-`
+```
